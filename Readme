@@ -1,2 +1,5 @@
+- Simple JavaFX example with a window and a button, prints something to console
+- no gradle
+
 Run-Configuration (VM options options):
 --module-path /usr/lib/javafx-sdk-13.0.2/lib/javafx.base.jar:/usr/lib/javafx-sdk-13.0.2/lib/:/usr/lib/javafx-sdk-13.0.2/lib/javafx.graphics.jar --add-modules=javafx.base,javafx.controls,javafx.graphics
